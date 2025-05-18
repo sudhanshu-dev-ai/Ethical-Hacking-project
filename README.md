@@ -1,5 +1,5 @@
 # 🔐 Ethical Hacking Project: Simulating Real-World Network Exploitation and Defense
-Author : Sintu Kumar  
+Author : Sudhanshu  
 Semester : 6  
 Branch : Cyber Security
 
