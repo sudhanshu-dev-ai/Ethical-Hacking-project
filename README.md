@@ -1,4 +1,7 @@
-# 🔐 Ethical Hacking Project
+# 🔐 Ethical Hacking Project: Simulating Real-World Network Exploitation and Defense
+Author : Sintu Kumar  
+Semester : 6  
+Branch : Cyber Security
 
 ## Scanning and Enumerating a Local Network with Nmap
 
